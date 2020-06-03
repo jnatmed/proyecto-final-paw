@@ -30,7 +30,9 @@ b) trazado de caminos con conteo de numeros entre rangos especificados. <br>
 
 ### 3)   Wireframes del sitio web => Home Page, Pagina de cada aplicacion, formularios necesarios para la administracion del sitio.
 
+#### Formulario de administracion
 
+![imagen Formulario](forms/configuracion_usuario.png)
 
 ### 4)   Diseño del Modelo de Objetos
 
