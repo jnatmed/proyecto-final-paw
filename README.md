@@ -19,14 +19,14 @@ Objetivo: Los juegos a recrear son:<br>
 a) marcado de numeros del 1 al 9 => para practicar el trazo y direccion de trazado de los numeros<br>
 b) trazado de caminos con conteo de numeros entre rangos especificados. <br>
 
-### 2)   Mapa del Sitio => 5 Secciones minimo.
+### 2)   Mapa del Sitio, 5 Secciones minimo.
 
-    => home, hablara sobre el metodo de estudio. link con invitacion para empezar a usar el aula virtual. <br>
-    => juegos (aula virtual)<br>
-    => progresos/ estadisticas<br>
-    => configuracion de juegos, seran individualizadas por usuario. <br>
-    => configuracion de usuario, nombre rango de edad. En base a eso sera <br>
-    => contacto, formulario de contacto. <br><br>
+    => home, hablara sobre el metodo de estudio. link con invitacion para empezar a usar el aula virtual. 
+    => juegos (aula virtual) 
+    => progresos/ estadisticas
+    => configuracion de juegos, seran individualizadas por usuario. 
+    => configuracion de usuario, nombre rango de edad. En base a eso sera 
+    => contacto, formulario de contacto.    
 
 ### 3)   Wireframes del sitio web => Home Page, Pagina de cada aplicacion, formularios necesarios para la administracion del sitio.
 
