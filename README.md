@@ -8,7 +8,7 @@ Móvil y de Escritorio).
 
 ## Presentacion de la Idea 
 Fecha: 05/06/2020<br>
-# 1)   Propuesta general del sitio a desarrollar en forma de presupuesto funcional y temporal.
+### 1)   Propuesta general del sitio a desarrollar en forma de presupuesto funcional y temporal.
 
 Juegos interactivos para niños basados en el Metodo de estudio Kumon <br>
 Pagina del Sitio: https://www.kumon.com.ar/metodo-kumon<br>
@@ -19,7 +19,8 @@ Objetivo: Los juegos a recrear son:<br>
 a) marcado de numeros del 1 al 9 => para practicar el trazo y direccion de trazado de los numeros<br>
 b) trazado de caminos con conteo de numeros entre rangos especificados. <br>
 
-# 2)   Mapa del Sitio => 5 Secciones minimo.<br>
+### 2)   Mapa del Sitio => 5 Secciones minimo.
+
     => home, hablara sobre el metodo de estudio. link con invitacion para empezar a usar el aula virtual. <br>
     => juegos (aula virtual)<br>
     => progresos/ estadisticas<br>
@@ -27,12 +28,14 @@ b) trazado de caminos con conteo de numeros entre rangos especificados. <br>
     => configuracion de usuario, nombre rango de edad. En base a eso sera <br>
     => contacto, formulario de contacto. <br><br>
 
-# 3)   Wireframes del sitio web => Home Page, Pagina de cada aplicacion, formularios necesarios para la administracion del sitio.<br>
+### 3)   Wireframes del sitio web => Home Page, Pagina de cada aplicacion, formularios necesarios para la administracion del sitio.
 
 
 
-# 4)   Diseño del Modelo de Objetos<br>
-# 5)   Diseño del Modelo de Datos<br>
+### 4)   Diseño del Modelo de Objetos
+
+
+### 5)   Diseño del Modelo de Datos
 
 Los datos a guardar seran: <br>
 a) configuracion de cada uno de los caminos, dependiendo de la configuracion del usuario. <br>
