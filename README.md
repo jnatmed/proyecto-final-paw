@@ -30,9 +30,12 @@ b) trazado de caminos con conteo de numeros entre rangos especificados. <br>
 
 ### 3)   Wireframes del sitio web => Home Page, Pagina de cada aplicacion, formularios necesarios para la administracion del sitio.
 
-#### Formulario de administracion
+#### Formulario de configuracion de usuario
 
 ![imagen Formulario](forms/configuracion_usuario.png)
+
+#### Vista de juego de los numeros
+![imagen wireframe](forms/../wireframes/wireframe_juego_numeros.png)
 
 ### 4)   Diseño del Modelo de Objetos
 
