@@ -1,5 +1,5 @@
 ![imagen](imgs/busqueda numero y arrastre.jpeg)
-![imagen](imgs/cinco.jpeg)
+![imagen](/imgs/cinco.jpeg)
 ![imagen](imgs/countdown-digital-clock-timer-computer-icons-countdown.jpg)
 ![imagen](imgs/cuatro.jpeg)
 ![imagen](imgs/dibujo_numero_uno.jpg)
