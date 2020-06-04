@@ -61,7 +61,12 @@ Para poder considerar el costo Total del Personal se toma en cuenta el costo por
 #### Vista de juego de Trazado de Camino
 ![imagen wireframe](wireframes/trazado-numeros-rango.png)
 
+Nota: Caracteristicas fundamentales para lograr el first movile, seran en CSS el uso de Flex Box: a medida que se va achicando el tamaño del dispositivo, se van adapatando tanto el nav como el body, donde ira el juego, manejado por un canvas. 
+
 ### 4)   Diseño del Modelo de Objetos
+
+
+![imagen wireframe](modelos/diagramaModeloObjetos.png)
 
 juego.controller => {
     cargarConfiguracionJuego(id_juego)
