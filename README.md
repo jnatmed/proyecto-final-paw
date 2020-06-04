@@ -35,7 +35,10 @@ b) trazado de caminos con conteo de numeros entre rangos especificados. <br>
 ![imagen Formulario](forms/configuracion_usuario.png)
 
 #### Vista de juego de los numeros
-![imagen wireframe](forms/../wireframes/wireframe_juego_numeros.png)
+![imagen wireframe](wireframes/wireframe_juego_numeros.png)
+
+#### Vista de juego de Trazado de Camino
+![imagen wireframe](wireframes/trazado-numeros-rango.png)
 
 ### 4)   Diseño del Modelo de Objetos
 
