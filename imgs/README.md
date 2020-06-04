@@ -1,3 +1,5 @@
+![imagen Formulario](forms/configuracion_usuario.png)
+
 ![imagen](imgs/busqueda numero y arrastre.jpeg)
 ![imagen](/imgs/cinco.jpeg)
 ![imagen](imgs/countdown-digital-clock-timer-computer-icons-countdown.jpg)
