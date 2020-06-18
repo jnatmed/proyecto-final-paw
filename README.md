@@ -57,7 +57,10 @@ Para poder considerar el costo Total del Personal se toma en cuenta el costo por
 ##### 2) y 3) Una vez logueado en el sistema,  preferentemente con certificado de facebook, comienza la interaccion con la capa controller
 ##### 4) Pedido de listado de nueva partida
 ##### 5) Pedido de listado de metodos
-##### 6) Envio de vistas al usuario. 
+##### 6) Envio de resultado al Controlador
+##### 7) Envio de parametros a vistas. 
+##### 8) Envio de resultado al navegador.
+
 
 ### 5)   Diseño del Modelo de Datos
 
