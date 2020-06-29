@@ -15,5 +15,5 @@ Juego Interactivo para el desarrollo del Puzzle
 La idea es el desarrollo del Juego clasico de Puzzle, con una interaccion en el BackEnd, mejorando detalles de seguridad.
 
 #### 1er Entrega - Presentacion del Proyecto. [here](entregas\1er - entrega)
-#### 2da Entrega - Proyecto del Juego de Puzzle.  
+#### 2da Entrega - Proyecto del Juego de Puzzle. [here](https://github.com/jnatmed/juego-puzzle) 
 
